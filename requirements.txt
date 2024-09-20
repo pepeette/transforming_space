@@ -1,0 +1,14 @@
+flask
+torch
+torchvision
+diffusers
+transformers
+controlnet_aux
+pillow
+numpy
+gunicorn
+accelerate
+mediapipe
+torchaudio 
+segment-anything
+opencv-python
